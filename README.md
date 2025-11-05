@@ -128,6 +128,9 @@ You can also check connectivity between the PCs on different networks to ensure 
 4.	If everything is configured correctly, you should receive replies from PC3.
 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
+
+
+
  
 # OUTPUT
 
